@@ -6,7 +6,7 @@ import Browse from '../Browse/Browse';
 import Activity from '../Activity/Activity';
 import styles from './styles'
 import Nav from './Navigation'
-import AppbarHeader from './Appbar'
+import AppbarHeader from './Appbar';
 
 class Tampilan extends React.Component {
   constructor(props){

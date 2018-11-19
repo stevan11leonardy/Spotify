@@ -9,6 +9,7 @@ import Grids from './Grid';
 import GridList from './GirdList/GridList';
 import { clickBack } from '../../Actions/actions';
 
+
 const Browse = (props) => {
   const { classes } = props;
   if (props.istekan === false) {
